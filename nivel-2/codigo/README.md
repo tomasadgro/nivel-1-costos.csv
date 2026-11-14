@@ -1,6 +1,6 @@
 # Nivel 2 · Costeo de la carta completa
 
-`costeo.py` calcula el costo de ingredientes por porción de los 50 platos al 31/10/2026 y genera `nivel-2/costos.csv`.
+`costeo.py` (con `lectura.py`, que lee catálogo, rendimientos, facturas y notas) calcula el costo de ingredientes por porción de los 50 platos al 31/10/2026 y genera `nivel-2/costos.csv`.
 
 ## Entradas
 
